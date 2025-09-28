@@ -1,0 +1,6 @@
+id_venda,data,produto,quantidade,preco_unitario
+1,2024-01-05,Camisa,2,50
+2,2024-01-07,Calça,1,120
+3,2024-01-10,Tênis,1,250
+4,2024-01-11,Camisa,3,50
+5,2024-01-15,Bolsa,2,200
