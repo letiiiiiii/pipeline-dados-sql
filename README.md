@@ -17,9 +17,9 @@ este projeto implementa uma **pipeline de dados** que lê um arquivo CSV de vend
 - SQL (postgreSQL)  
 
 ## pré-requisitos
-- Python instalado  
-- PostgreSQL rodando localmente ou em servidor remoto  
-- Bibliotecas do `requirements.txt` instaladas  
+- python instalado  
+- postgreSQL rodando localmente ou em servidor remoto  
+- bibliotecas do `requirements.txt` instaladas  
 
 ## como rodar
 
