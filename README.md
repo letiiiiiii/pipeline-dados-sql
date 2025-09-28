@@ -1,9 +1,9 @@
 # pipeline-dados-sql
 
-## Descrição
-Este projeto implementa uma **pipeline de dados** que lê um arquivo CSV de vendas, transforma os dados utilizando Python/Pandas e carrega em um banco de dados PostgreSQL. É um exemplo de ETL (Extract, Transform, Load) para manipulação de dados de vendas fictícias.
+## descrição
+este projeto implementa uma **pipeline de dados** que lê um arquivo CSV de vendas, transforma os dados utilizando python/pandas e carrega em um banco de dados postgreSQL. é um exemplo de ETL (Extract, Transform, Load) para manipulação de dados de vendas fictícias.
 
-## Estrutura do Projeto
+## estrutura do projeto
 
 pipeline-dados-sql/
 │
@@ -22,19 +22,19 @@ pipeline-dados-sql/
 - `requirements.txt` → bibliotecas necessárias para rodar o projeto.  
 - `README.md` → explicação do projeto.
 
-## Tecnologias
-- Python 3.x  
-- Pandas  
-- SQL (PostgreSQL)  
+## tecnologias
+- python 3.x  
+- pandas  
+- SQL (postgreSQL)  
 
-## Pré-requisitos
+## pré-requisitos
 - Python instalado  
 - PostgreSQL rodando localmente ou em servidor remoto  
 - Bibliotecas do `requirements.txt` instaladas  
 
-## Como Rodar
+## como rodar
 
-1. Clonar o repositório:
+1. clonar o repositório:
 
 ```bash
 git clone <https://github.com/letiiiiiii/pipeline-dados-sql>
