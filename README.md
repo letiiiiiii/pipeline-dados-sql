@@ -6,14 +6,23 @@ este projeto implementa uma **pipeline de dados** que lê um arquivo CSV de vend
 ## estrutura do projeto
 
 pipeline-dados-sql/
+
 │
+
 ├── README.md
+
 ├── data/
+
 │ └── vendas.csv
+
 ├── src/
+
 │ └── pipeline.py
+
 ├── scripts/
+
 │ └── create_tables.sql
+
 └── requirements.txt
 
 - `data/vendas.csv` → dataset bruto (pode ser fictício de vendas).  
